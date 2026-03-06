@@ -33,6 +33,6 @@ This project is a **console-based Tic Tac Toe game written in C++**. It was deve
 
 ## Author
 
-**Ahad Farooq**
+**Taha Abdullah**
 
 This project was created to practice basic programming concepts like **functions, arrays, loops, structures, and game logic in C++**.
